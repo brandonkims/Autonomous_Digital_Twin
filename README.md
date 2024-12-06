@@ -2,12 +2,11 @@
 
 2.1. 
 
-![그림2-1](https://github.com/user-attachments/assets/1c553b1a-94db-416e-94e9-b9f627b4be94)
+https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2
 
 2.2. 
 
 ![그림2-2](https://github.com/user-attachments/assets/14ebe87b-dd9f-4454-ba0b-85e80b625ec0)
-
 
 2.3. 
 
@@ -27,5 +26,5 @@ https://github.com/user-attachments/assets/fb2898c7-de6b-4056-a063-9ce1aa7f021a
 
 2.7.
 
-https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2
+![그림2-1](https://github.com/user-attachments/assets/1c553b1a-94db-416e-94e9-b9f627b4be94)
 
