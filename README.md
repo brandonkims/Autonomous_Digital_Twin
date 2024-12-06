@@ -1,6 +1,6 @@
 # Autonomous_Digital_Twin
 
-2.1. **서울 전체 환경을 모사한 DT를 기반으로 가상 테스트베드를 통해 차량간 통신 테스트베드** 
+2.1. **서울 전체 환경을 모사한 디지털 트윈(DT)을 기반으로 가상 테스트베드를 통해 차량간 통신 테스트베드** 
 
 
 https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2
