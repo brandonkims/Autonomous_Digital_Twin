@@ -5,6 +5,7 @@
 
 https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2
 
+**영상2.1 재생 안될 시, 해당 링크 클릭 ->https://www.youtube.com/watch?v=R_f0icQjHMk**
 
 2.2. 
 
