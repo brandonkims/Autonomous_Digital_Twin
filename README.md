@@ -5,24 +5,7 @@
 
 https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2
 
-**영상2.1 재생 안될 시, 해당 링크 클릭 ->https://www.youtube.com/watch?v=R_f0icQjHMk**
-
-2.2. 
-
-
-![그림2-3](https://github.com/user-attachments/assets/14ebe87b-dd9f-4454-ba0b-85e80b625ec0)
-
-
-2.3. 
-
-
-![그림2-3](https://github.com/user-attachments/assets/384d9c8d-2356-4e5f-8622-f0f199c970da)
-
-
-2.4. 
-
-
-![그림2-4](https://github.com/user-attachments/assets/8ab26851-4ce0-42ad-95e1-65801371baa7)
+**영상2.1 재생 안될 시, 해당 링크 클릭 -> https://www.youtube.com/watch?v=R_f0icQjHMk**
 
 
 2.5. **실제 도심 지역(서울시) 전체 환경을 모사한 디지털 트윈(DT)**
@@ -36,9 +19,12 @@ https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2
 
 https://github.com/user-attachments/assets/fb2898c7-de6b-4056-a063-9ce1aa7f021a
 
+**영상2.6 재생 안될 시, 해당 링크 클릭 -> https://youtu.be/2ThiG2Ob3SE**
+
 
 2.7. **선박간 교차 충돌 방지 및 항해 시나리오를 검증한 DT**
 
 
 https://github.com/user-attachments/assets/4b4b1641-b669-4222-a203-168a81e3323b
 
+**영상2.7 재생 안될 시, 해당 링크 클릭 -> https://youtu.be/jMc9bqHT9Sg**
