@@ -5,7 +5,7 @@
 
 https://github.com/user-attachments/assets/5dacccb7-9e5d-425a-9f65-f23aa9c91046
 
-**[영상2.1] 재생 안될 시, 해당 링크 클릭 ->**
+**[영상2.1] 재생 안될 시, 해당 링크 클릭 -> https://youtu.be/buWrByPUVMY**
 <br>
 <br>
 <br>
