@@ -13,7 +13,9 @@ https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2
 **[영상2.2]. 실제 도심 지역(서울시) 환경을 모사한 디지털 트윈(DT)**
 
 
-![그림2-1](https://github.com/user-attachments/assets/1c553b1a-94db-416e-94e9-b9f627b4be94)
+https://github.com/user-attachments/assets/5dacccb7-9e5d-425a-9f65-f23aa9c91046
+
+**[영상2.2] 재생 안될 시, 해당 링크 클릭 ->**
 <br>
 <br>
 <br>
