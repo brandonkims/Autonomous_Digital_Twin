@@ -10,12 +10,12 @@ https://github.com/user-attachments/assets/5dacccb7-9e5d-425a-9f65-f23aa9c91046
 <br>
 <br>
 
-**[영상2.2]. 서울 전체 환경을 모사한 디지털 트윈(DT)을 기반 차량 간 소통 프레임워크 테스트베드**
+**[영상2.2]. 서울 전체 환경의 디지털 트윈 기반 차량 간 소통 프레임워크 테스트베드**
+
+https://github.com/user-attachments/assets/3ad7a5be-2c31-4fc0-930e-d0b8fadb9635
 
 
-https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2 
-
-**[영상2.2] 재생 안될 시, 해당 링크 클릭 -> https://www.youtube.com/watch?v=R_f0icQjHMk**
+**[영상2.2] 재생 안될 시, 해당 링크 클릭 -> https://youtu.be/0LAQ7wpGWNE**
 <br>
 <br>
 <br>
