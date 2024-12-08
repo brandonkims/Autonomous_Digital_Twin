@@ -1,21 +1,21 @@
 # Autonomous_Digital_Twin
 
-**[영상2.1]. 서울 전체 환경을 모사한 디지털 트윈(DT)을 기반 차량 간 소통 프레임워크 테스트베드** 
-
-
-https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2
-
-**[영상2.1] 재생 안될 시, 해당 링크 클릭 -> https://www.youtube.com/watch?v=R_f0icQjHMk**
-<br>
-<br>
-<br>
-
-**[영상2.2]. 실제 도심 지역(서울시) 환경을 모사한 디지털 트윈(DT)**
+**[영상2.1]. 실제 도심 지역(서울) 환경을 모사한 디지털 트윈(DT)** 
 
 
 https://github.com/user-attachments/assets/5dacccb7-9e5d-425a-9f65-f23aa9c91046
 
-**[영상2.2] 재생 안될 시, 해당 링크 클릭 ->**
+**[영상2.1] 재생 안될 시, 해당 링크 클릭 ->**
+<br>
+<br>
+<br>
+
+**[영상2.2]. 서울 전체 환경을 모사한 디지털 트윈(DT)을 기반 차량 간 소통 프레임워크 테스트베드**
+
+
+https://github.com/user-attachments/assets/563e4c6c-2435-42d8-9d6a-919dad9d3ec2 
+
+**[영상2.2] 재생 안될 시, 해당 링크 클릭 -> https://www.youtube.com/watch?v=R_f0icQjHMk**
 <br>
 <br>
 <br>
