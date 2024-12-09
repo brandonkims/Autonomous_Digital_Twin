@@ -18,6 +18,16 @@ https://github.com/user-attachments/assets/5dacccb7-9e5d-425a-9f65-f23aa9c91046
 <br>
 <br>
 
+**[영상2.3]. 디지털 트윈 기반 무선 신호 경로 시나리오**
+
+
+https://github.com/user-attachments/assets/0fe86141-da40-4caf-8ab4-1ac03deeb6f5
+
+**[영상2.3] 재생 안될 시, 해당 링크 클릭 ->**
+<br>
+<br>
+<br>
+
 **[영상2.2]. 서울 전체 환경의 디지털 트윈 기반 차량 간 소통 프레임워크 테스트베드**
 
 
